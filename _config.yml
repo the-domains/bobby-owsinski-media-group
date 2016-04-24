@@ -1,0 +1,28 @@
+name: Bobby Owsinski Media Group
+favicon: null
+layout_spectrum: 0.2059629608411342
+typography_spectrum: 0.2778594009578228
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6433089643251151
+  lightness: 0.690479206154123
+  saturation: 0.449589841067791
+  rhythmicContrast: 0.20681335288099945
+purpose: []
